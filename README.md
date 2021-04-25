@@ -1,3 +1,3 @@
 ### Hello, I'm Sjoerd Vink 👋
 
-I’m currently still in university, where I study Information Science. On the side I'm trying to get the hang of Python and Javascript. Especially the frameworks React.JS and Django.
+I am a 22 year old developer from the Netherlands specializing in web development and data science. I am currently still at university, where I study information science.
